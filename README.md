@@ -1,7 +1,7 @@
 ### Olá, eu sou o Rodrigo N. Baba 👋
 
-- 🔭 Procurando um emprego como desenvolvedor back-end
-- 🌱 Terminando Bootcamp de Desenvolvedor Web Full Stack na Generation Brasil
+- 🔭 Procurando um emprego como desenvolvedor web
+- 🌱 Formado no Bootcamp de Desenvolvedor Web Full Stack na Generation Brasil
 - 🌱 Realizando Graduação em Ciência da Computação na Faculdade Impacta
 - 📫 Meu contato: rodrigonuciatelli@gmail.com
 - 😄 Pronouns: ele/dele
