@@ -1,7 +1,7 @@
 ### Olá, eu sou o Rodrigo N. Baba 👋
 
-- :briefcase: 
-- 🔭 Procurando um emprego como desenvolvedor web
+- :briefcase: Trabalhando em uma empresa como Desenvolvedor Júnior
+- 🔭 Procurando uma oportunidade em uma empresa com um ambiente de trabalho dinâmico onde possa aplicar e desenvolver meus conhecimentos em outras linguagens como Java, JavaScript, CSS, etc
 - 🌱 Formado no Bootcamp de Desenvolvedor Web Full Stack na Generation Brasil
 - 🌱 Realizando Graduação em Ciência da Computação na Faculdade Impacta
 - 📫 Meu contato: rodrigonuciatelli@gmail.com
