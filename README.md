@@ -1,5 +1,6 @@
 ### Olá, eu sou o Rodrigo N. Baba 👋
 
+- :briefcase: 
 - 🔭 Procurando um emprego como desenvolvedor web
 - 🌱 Formado no Bootcamp de Desenvolvedor Web Full Stack na Generation Brasil
 - 🌱 Realizando Graduação em Ciência da Computação na Faculdade Impacta
